@@ -3,12 +3,12 @@
   "short_name": "ChatGPT",
   "icons": [
     {
-      "src": "/android-chrome.png",
+      "src": "/icon.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/android-chrome.png",
+      "src": "/icon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
